@@ -1,0 +1,8 @@
+#include <RCSwitch.h>
+
+#define SERIAL_BAUDRATE 115200
+
+#define WIFI_SSID "name of wifi"
+#define WIFI_PASS "password"
+
+#define LAMP_1 "lamp one"
